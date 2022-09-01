@@ -11,7 +11,11 @@
             "views": "2.1k",
             "link": "https://www.youtube-nocookie.com/embed/6O4s7v28nlw",
             "thumbnail": "https://i3.ytimg.com/vi/6O4s7v28nlw/maxresdefault.jpg",
-            "tags": ["javascript", "react", "tips"],
+            "tags": [
+                "javascript",
+                "react",
+                "tips"
+            ],
             "likes": 0,
             "unlikes": 0
         },
@@ -26,7 +30,10 @@
             "views": "2.1k",
             "link": "https://www.youtube-nocookie.com/embed/N-U6AVcIPy4",
             "thumbnail": "https://i3.ytimg.com/vi/N-U6AVcIPy4/maxresdefault.jpg",
-            "tags": ["vscode", "tips"],
+            "tags": [
+                "vscode",
+                "tips"
+            ],
             "likes": 0,
             "unlikes": 0
         },
@@ -41,7 +48,10 @@
             "views": "2.1k",
             "link": "https://www.youtube-nocookie.com/embed/4M7D3O2XX4o",
             "thumbnail": "https://i3.ytimg.com/vi/4M7D3O2XX4o/maxresdefault.jpg",
-            "tags": ["tailwind", "css"],
+            "tags": [
+                "tailwind",
+                "css"
+            ],
             "likes": 0,
             "unlikes": 0
         },
@@ -56,7 +66,11 @@
             "views": "2.1k",
             "link": "https://www.youtube-nocookie.com/embed/dD9O8DnIBj4",
             "thumbnail": "https://i3.ytimg.com/vi/dD9O8DnIBj4/maxresdefault.jpg",
-            "tags": ["debounce", "javascript", "tips"],
+            "tags": [
+                "debounce",
+                "javascript",
+                "tips"
+            ],
             "likes": 0,
             "unlikes": 0
         },
@@ -71,7 +85,11 @@
             "views": "2.1k",
             "link": "https://www.youtube-nocookie.com/embed/4tV1Mfi4fMA",
             "thumbnail": "https://i3.ytimg.com/vi/4tV1Mfi4fMA/maxresdefault.jpg",
-            "tags": ["sass", "css", "ui"],
+            "tags": [
+                "sass",
+                "css",
+                "ui"
+            ],
             "likes": 0,
             "unlikes": 0
         },
@@ -86,7 +104,11 @@
             "views": "2.1k",
             "link": "https://www.youtube-nocookie.com/embed/34tjWL9wi4g",
             "thumbnail": "https://i3.ytimg.com/vi/34tjWL9wi4g/maxresdefault.jpg",
-            "tags": ["react", "router", "javascript"],
+            "tags": [
+                "react",
+                "router",
+                "javascript"
+            ],
             "likes": 0,
             "unlikes": 0
         },
@@ -101,7 +123,229 @@
             "views": "2.1k",
             "link": "https://www.youtube-nocookie.com/embed/smDa6hoxLKI",
             "thumbnail": "https://i3.ytimg.com/vi/smDa6hoxLKI/maxresdefault.jpg",
-            "tags": ["tailwind", "css", "ui"],
+            "tags": [
+                "tailwind",
+                "css",
+                "ui"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 8,
+            "title": "Python for Beginners - Learn Python in 1 Hour",
+            "description": "This Python tutorial for beginners show how to get started with Python quickly. Learn to code in 1 hour! Watch this tutorial get started!",
+            "author": "Programming with Mosh",
+            "avatar": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s900-c-k-c0x00ffffff-no-rj",
+            "date": "April 19, 2021",
+            "duration": "20:00",
+            "views": "9.9k",
+            "link": "https://www.youtube-nocookie.com/embed/kqtD5dpn9C8",
+            "thumbnail": "https://i3.ytimg.com/vi/kqtD5dpn9C8/maxresdefault.jpg",
+            "tags": [
+                "competitive",
+                "python",
+                "beginners"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 9,
+            "title": "Docker Compose Tutorial",
+            "description": "Learn all about Docker Compose so you can orchestrate your services with confidence!",
+            "author": "Programming with Mosh",
+            "avatar": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s900-c-k-c0x00ffffff-no-rj",
+            "date": "April 19, 2021",
+            "duration": "20:00",
+            "views": "9.9k",
+            "link": "https://www.youtube-nocookie.com/embed/HG6yIjZapSA",
+            "thumbnail": "https://i3.ytimg.com/vi/HG6yIjZapSA/maxresdefault.jpg",
+            "tags": [
+                "docker",
+                "compose",
+                "beginners"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 10,
+            "title": "Java Collections Tutorial",
+            "description": "Learn all about Java Collections and write Java code with confidence!",
+            "author": "Programming with Mosh",
+            "avatar": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s900-c-k-c0x00ffffff-no-rj",
+            "date": "April 19, 2021",
+            "duration": "20:00",
+            "views": "9.9k",
+            "link": "https://www.youtube-nocookie.com/embed/rH0winlka8A",
+            "thumbnail": "https://i3.ytimg.com/vi/rH0winlka8A/maxresdefault.jpg",
+            "tags": [
+                "beginners",
+                "java"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 11,
+            "title": "Java Generics Tutorial",
+            "description": "Learn all about Java Generics and write Java code with confidence! ",
+            "author": "Programming with Mosh",
+            "avatar": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s900-c-k-c0x00ffffff-no-rj",
+            "date": "April 19, 2021",
+            "duration": "20:00",
+            "views": "9.9k",
+            "link": "https://www.youtube-nocookie.com/embed/7i3Rliqzquw",
+            "thumbnail": "https://i3.ytimg.com/vi/7i3Rliqzquw/maxresdefault.jpg",
+            "tags": [
+                "beginners",
+                "java"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 12,
+            "title": "Java Interfaces Tutorial",
+            "description": "Learn all about Java Interfaces and write Java code with confidence!",
+            "author": "Programming with Mosh",
+            "avatar": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s900-c-k-c0x00ffffff-no-rj",
+            "date": "April 20, 2021",
+            "duration": "25:00",
+            "views": "10k",
+            "link": "https://www.youtube-nocookie.com/embed/JFuMei9Wwk4",
+            "thumbnail": "https://i3.ytimg.com/vi/JFuMei9Wwk4/maxresdefault.jpg",
+            "tags": [
+                "beginners",
+                "java"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 13,
+            "title": "Control Flow in Python - If Elif Else Statements",
+            "description": "Learn how to use if elif else statements in Python to control the flow of your programs.",
+            "author": "Programming with Mosh",
+            "avatar": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s900-c-k-c0x00ffffff-no-rj",
+            "date": "April 20, 2021",
+            "duration": "25:00",
+            "views": "10k",
+            "link": "https://www.youtube-nocookie.com/embed/Zp5MuPOtsSY",
+            "thumbnail": "https://i3.ytimg.com/vi/Zp5MuPOtsSY/maxresdefault.jpg",
+            "tags": [
+                "python"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 14,
+            "title": "How to Loop over Lists in Python",
+            "description": "How to loop over lists in Python. Learn Python basics with this Python",
+            "author": "Programming with Mosh",
+            "avatar": "https://yt3.ggpht.com/tBEPr-zTNXEeae7VZKSZYfiy6azzs9OHowq5ZvogJeHoVtKtEw2PXSwzMBKVR7W0MI7gyND8=s900-c-k-c0x00ffffff-no-rj",
+            "date": "April 20, 2021",
+            "duration": "25:00",
+            "views": "10k",
+            "link": "https://www.youtube-nocookie.com/embed/9ueMumuFv6g",
+            "thumbnail": "https://i3.ytimg.com/vi/9ueMumuFv6g/maxresdefault.jpg",
+            "tags": [
+                "python"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 15,
+            "title": "Don't Buy Scanner! Build your own smart scanner",
+            "description": "Your wallet reminds you of the Sahara desert? But you need to scan documents right? This video is your saviour! ",
+            "author": "Programming Hero",
+            "avatar": "https://trickbd.com/wp-content/uploads/2020/08/18/IMG_20200818_100619.png",
+            "date": "June 17, 2022",
+            "duration": "07:12",
+            "views": "2.5k",
+            "link": "https://www.youtube-nocookie.com/embed/MAwOPyOztDs",
+            "thumbnail": "https://i3.ytimg.com/vi/MAwOPyOztDs/maxresdefault.jpg",
+            "tags": [
+                "scanner",
+                "programming"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 16,
+            "title": "BUILD A MOUSE USING YOUR EYE - Python Project",
+            "description": "Your RGB wireless mouse broke? Who cares? Let's use your eyes to make a mouse in just 5 steps.",
+            "author": "Programming Hero",
+            "avatar": "https://trickbd.com/wp-content/uploads/2020/08/18/IMG_20200818_100619.png",
+            "date": "Sep 15, 2021",
+            "duration": "08:12",
+            "views": "2.8k",
+            "link": "https://www.youtube-nocookie.com/embed/k3PcVruvZCs",
+            "thumbnail": "https://i3.ytimg.com/vi/k3PcVruvZCs/maxresdefault.jpg",
+            "tags": [
+                "programming",
+                "python",
+                "mouse"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 17,
+            "title": "এই ৫টা ট্র্যাপে পড়লে তোমার ফিউচার শেষ !!!",
+            "description": "তুমি যদি ২০২২ সালে ওয়েব ডেভেলপার হওয়ার মিশনে জয়েন করতে চাও। তাহলে এই ওয়েবসাইট এ গিয়ে ডিসেম্বর ২৪ তারিখের মধ্যে এনরোল করে ফেলো",
+            "author": "Programming Hero",
+            "avatar": "https://trickbd.com/wp-content/uploads/2020/08/18/IMG_20200818_100619.png",
+            "date": "Sep 15, 2021",
+            "duration": "10:12",
+            "views": "4.8k",
+            "link": "https://www.youtube-nocookie.com/embed/AZc9wZVwQ4w",
+            "thumbnail": "https://i3.ytimg.com/vi/AZc9wZVwQ4w/maxresdefault.jpg",
+            "tags": [
+                "webdevelopment",
+                "javascript",
+                "node"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 18,
+            "title": "কোন প্রোগ্রামিং ল্যাঙ্গুয়েজ শিখবো?",
+            "description": "যারা প্রোগ্রামিং শিখবে বলে আশা ব্যক্ত করে তাদের প্রথম প্যারা হচ্ছে কোন ল্যাঙ্গুয়েজ শিখবো? কোন প্রোগ্রামিং ল্যাঙ্গুয়েজ আমার জন্য ভালো হবে? কিভাবে শিখবো? কোথা থেকে শিখবো?",
+            "author": "Programming Hero",
+            "avatar": "https://trickbd.com/wp-content/uploads/2020/08/18/IMG_20200818_100619.png",
+            "date": "Sep 15, 2021",
+            "duration": "10:12",
+            "views": "4.8k",
+            "link": "https://www.youtube-nocookie.com/embed/3w5UAWhIjgQ",
+            "thumbnail": "https://i3.ytimg.com/vi/3w5UAWhIjgQ/maxresdefault.jpg",
+            "tags": [
+                "language",
+                "programming"
+            ],
+            "likes": 0,
+            "unlikes": 0
+        },
+        {
+            "id": 19,
+            "title": "১ মাসের মধ্যে প্রোগ্রামিং শিখার নিষ্ঠুর প্ল্যান",
+            "description": "দুইদিন চেষ্টা করলাম। আটকে গেলে হালকা একটু গুতাই গাতাই ছেড়ে দিলাম---তাদের জন্য প্রোগ্রামিং না।",
+            "author": "Programming Hero",
+            "avatar": "https://trickbd.com/wp-content/uploads/2020/08/18/IMG_20200818_100619.png",
+            "date": "Sep 19, 2021",
+            "duration": "10:12",
+            "views": "4.8k",
+            "link": "https://www.youtube-nocookie.com/embed/Sbn18WSKRtE",
+            "thumbnail": "https://i3.ytimg.com/vi/Sbn18WSKRtE/maxresdefault.jpg",
+            "tags": [
+                "language",
+                "programming"
+            ],
             "likes": 0,
             "unlikes": 0
         }
