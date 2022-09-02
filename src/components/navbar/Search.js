@@ -1,11 +1,11 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useMatch, useNavigate } from "react-router-dom";
 import { searched } from "../../features/filter/filterSlice";
 
 export default function Search() {
     const dispatch = useDispatch();
-    const { search } = useSelector((state) => state.filter);
+    const { search, reset } = useSelector((state) => state.filter);
     const [input, setInput] = useState(search);
 
     const match = useMatch("/");
@@ -20,6 +20,13 @@ export default function Search() {
             navigate("/");
         }
     };
+
+    //blank input field after reset all the filters
+    useEffect(() => {
+        if (reset) {
+            setInput("");
+        };
+    }, [reset])
 
     return (
         <form onSubmit={handleSubmit}>
