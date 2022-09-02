@@ -24,7 +24,7 @@ export default function Pagination() {
     }
 
     useEffect(() => {
-        fetch("http://localhost:9000/videos")
+        fetch("https://think-in-redux-way-server.herokuapp.com/videos")
             .then(res => res.json())
             .then(data => setVideos(data));
     }, [videos]);

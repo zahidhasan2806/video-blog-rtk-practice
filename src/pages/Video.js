@@ -5,7 +5,7 @@ import VideoPlayer from "../components/description/Player";
 import VideoDescription from "../components/description/VideoDescription";
 import RelatedVideoList from "../components/list/RelatedVideoList";
 import Loading from "../components/ui/Loading";
-import { fetchVideo } from "../features/video/videoSlice";
+import { fetchVideo, updateTotalDisLikes, updateTotalLikes } from "../features/video/videoSlice";
 
 export default function Video() {
     const { video, isLoading, isError, error } = useSelector(
@@ -19,6 +19,14 @@ export default function Video() {
     }, [dispatch, videoId]);
 
     const { id, link, title, tags } = video || {};
+
+    const handleLike = (videoId, currentLikes) => {
+        dispatch(updateTotalLikes({ videoId, currentLikes }));
+    };
+
+    const handleDislike = (videoId, currentDislikes) => {
+        dispatch(updateTotalDisLikes({ videoId, currentDislikes }));
+    };
 
     // decide what to render
     let content = null;
@@ -37,7 +45,7 @@ export default function Video() {
                 <div className="col-span-full w-full space-y-8 lg:col-span-2">
                     <VideoPlayer link={link} title={title} />
 
-                    <VideoDescription video={video} />
+                    <VideoDescription video={video} handleLike={handleLike} handleDislike={handleDislike} />
                 </div>
 
                 <RelatedVideoList currentVideoId={id} tags={tags} />
